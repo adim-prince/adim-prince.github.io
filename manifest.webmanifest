@@ -1,0 +1,11 @@
+{
+ "name":"Learning Outcomes Grade Tracker",
+ "short_name":"Grade Tracker",
+ "description":"Track grades by learning outcome (RLO and CLO).",
+ "start_url":"./",
+ "scope":"./",
+ "display":"standalone",
+ "background_color":"#ffffff",
+ "theme_color":"#23804f",
+ "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
